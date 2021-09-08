@@ -25,11 +25,11 @@
 
 ## 数据:
 
-- 🇨🇳 国内 IP 列表 <https://raw.githubusercontent.com/0jinxing/ipv4-geo/dist/dist/CN-ip.txt>
-- 🇨🇳 台湾 IP 列表 <https://raw.githubusercontent.com/0jinxing/ipv4-geo/dist/dist/TW-ip.txt>
-- 🇨🇳 香港 IP 列表 <https://raw.githubusercontent.com/0jinxing/ipv4-geo/dist/dist/HK-ip.txt>
-- 🇯🇵 日本 IP 列表 <https://raw.githubusercontent.com/0jinxing/ipv4-geo/dist/dist/JP-ip.txt>
-- 🇺🇸 美国 IP 列表 <https://raw.githubusercontent.com/0jinxing/ipv4-geo/dist/dist/US-ip.txt>
+- 🇨🇳 国内 IP 列表 <https://raw.githubusercontent.com/0jinxing/ipv4-geo/dist/dist/CN.txt>
+- 🇨🇳 台湾 IP 列表 <https://raw.githubusercontent.com/0jinxing/ipv4-geo/dist/dist/TW.txt>
+- 🇨🇳 香港 IP 列表 <https://raw.githubusercontent.com/0jinxing/ipv4-geo/dist/dist/HK.txt>
+- 🇯🇵 日本 IP 列表 <https://raw.githubusercontent.com/0jinxing/ipv4-geo/dist/dist/JP.txt>
+- 🇺🇸 美国 IP 列表 <https://raw.githubusercontent.com/0jinxing/ipv4-geo/dist/dist/US.txt>
 
 ## 区域列表
 
